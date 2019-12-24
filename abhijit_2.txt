@@ -1,3 +1,7 @@
 hello worldii why so serious
 there is a change in this file
+<<<<<<< HEAD
 moda
+=======
+lawada
+>>>>>>> 4ade5d09c37e8bb4a42829cb04e70a050cbd7ed2
